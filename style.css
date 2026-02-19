@@ -63,3 +63,7 @@ footer {
 .category-card img[src="medium.JPG"] {
   object-position: top center;
 }
+/* Adjust mini image position */
+.category-card img[src="mini.PNG"] {
+  object-position: top center;
+}
