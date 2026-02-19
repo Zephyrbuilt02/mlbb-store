@@ -59,3 +59,7 @@ footer {
   padding: 15px;
   background: #1a1a2e;
 }
+/* Adjust medium image position */
+.category-card img[src="medium.JPG"] {
+  object-position: top center;
+}
